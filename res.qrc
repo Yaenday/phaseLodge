@@ -1,0 +1,67 @@
+<RCC>
+    <qresource prefix="/image/scene">
+        <file>exp/frontHall/frontHall_1.jpg</file>
+        <file>exp/frontHall/frontHall_2.jpg</file>
+        <file>exp/frontHall/frontHall_3.jpg</file>
+        <file>exp/frontHall/frontHall_4.jpg</file>
+        <file>exp/frontHall/frontHall_5.jpg</file>
+        <file>exp/frontHall/frontHall_6.jpg</file>
+        <file>exp/frontHall/frontHall_7.jpg</file>
+        <file>exp/backHall/backHall_1.jpg</file>
+        <file>exp/backHall/backHall_2.jpg</file>
+        <file>exp/backHall/backHall_3.jpg</file>
+        <file>exp/eastBedroom/eastBedroom_1.jpg</file>
+        <file>exp/study/study_1.jpg</file>
+        <file>exp/study/study_2.jpg</file>
+        <file>exp/boneRoom/boneRoom_1.jpg</file>
+        <file>exp/boneRoom/boneRoom_2.jpg</file>
+        <file>exp/westBedroom/westBedroom_1.jpg</file>
+    </qresource>
+    <qresource prefix="/image/item">
+        <file>exp/frontHall/Item_2_1.jpg</file>
+        <file>exp/frontHall/Item_3_1.jpg</file>
+        <file>exp/frontHall/Item_6_1.jpg</file>
+        <file>exp/frontHall/Item_7_1.jpg</file>
+        <file>exp/backHall/Item_2_1.jpg</file>
+        <file>exp/boneRoom/Item_1_1.jpg</file>
+        <file>exp/boneRoom/Item_2_1.jpg</file>
+        <file>exp/boneRoom/Item_2_2.jpg</file>
+        <file>exp/boneRoom/Item_2_3.jpg</file>
+        <file>exp/boneRoom/Item_2_4.jpg</file>
+        <file>exp/boneRoom/Item_2_5.jpg</file>
+        <file>exp/eastBedroom/Item_1_1.jpg</file>
+        <file>exp/eastBedroom/Item_1_2.jpg</file>
+        <file>exp/westBedroom/Item_1_1.jpg</file>
+        <file>exp/study/Item_1_1.jpg</file>
+        <file>exp/study/Item_1_2.jpg</file>
+        <file>exp/study/Item_2_1.jpg</file>
+        <file>exp/study/Item_2_2.jpg</file>
+        <file>exp/study/Item_2_3.jpg</file>
+        <file>exp/study/Item_2_4.jpg</file>
+        <file>exp/frontHall/Item_2_1_discription.jpg</file>
+    </qresource>
+    <qresource prefix="/icon/Button">
+        <file>exp/Button/arrow.png</file>
+        <file>exp/Button/arrow_1.png</file>
+        <file>exp/Button/arrow_2.png</file>
+        <file>exp/Button/arrow_3.png</file>
+        <file>exp/Button/arrow_4.png</file>
+        <file>exp/Button/arrow_down.png</file>
+        <file>exp/Button/arrow_left.png</file>
+        <file>exp/Button/arrow_right.png</file>
+        <file>exp/Button/arrow_up.png</file>
+        <file>exp/Button/down.jpg</file>
+        <file>exp/Button/left.jpg</file>
+        <file>exp/Button/left_arrow.png</file>
+        <file>exp/Button/right.jpg</file>
+        <file>exp/Button/right_arrow.png</file>
+        <file>exp/Button/rotated_photo_60.jpg</file>
+        <file>exp/Button/rotated_photo_120.jpg</file>
+        <file>exp/Button/up.jpg</file>
+    </qresource>
+    <qresource prefix="/image/else">
+        <file>exp/else/master.png</file>
+        <file>exp/else/player.png</file>
+        <file>exp/else/welcome.png</file>
+    </qresource>
+</RCC>
